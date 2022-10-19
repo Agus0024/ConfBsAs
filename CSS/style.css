@@ -1,0 +1,68 @@
+.confBsAs {
+  background: black;
+}
+
+
+.fondoTransicionOpaco {
+  background-color: rgba(0, 0, 0, 0.6);
+  opacity: 0.7;
+  transition: 0.5s opacity;
+  
+}
+
+
+.palacioTexto {
+  text-align: right; 
+margin-right: 10%;
+
+  }
+ 
+
+  
+
+.textoAbajoDer {
+ text-align: right;
+ 
+}
+
+
+#tarjetasOradores {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+
+#tarjetaOrador {
+
+  width: 25px;
+  height: 25px;
+  top: 50%;
+  left: 50%;
+  margin: -25px 0 0 -25px
+}
+
+
+#conviertete{
+padding: 0%;
+border-bottom: 0%;
+}
+
+
+.octubreBsAs {
+  background-color: darkslategray;
+
+}
+
+
+
+.botonVerde{
+ background-color: #86b618; 
+ border-color: #86b618;
+}
+
+.pie {
+  background-color: #123950
+}
