@@ -65,4 +65,11 @@ border-bottom: 0%;
 
 .pie {
   background-color: #123950
+  
+}
+
+ul{
+  list-style: none;
+  margin: 0%;
+  padding: 0%;
 }
